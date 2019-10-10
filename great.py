@@ -1,5 +1,7 @@
 a=100
-if a>200:
-    print("a is greater")
+if a>10:
+    print("a is big")
+elif a>20:
+    print("a is 20")
 else:
-    print("a is less")
+    print("default")
